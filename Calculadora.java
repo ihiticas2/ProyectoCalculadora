@@ -11,4 +11,7 @@ public class Calculadora {
     public int suma() {
         return num1 + num2;
     }
+    public int multiplicar() {
+    return num1 * num2;
+}
 }
